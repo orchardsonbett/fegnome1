@@ -1,2 +1,2 @@
 # gnome
-View at <http://gnomeweb.bitballoon.com/>
+View at <http://fegnome1.bitballoon.com/>
